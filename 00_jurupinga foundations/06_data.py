@@ -1,0 +1,5 @@
+name = input("Qual o seu nome: ")
+age = input("Qual a sua idade: ")
+city = input("Que cidade você mora: ")
+state = input("Que estado voce mora: ")
+print("Nome: ",name,"\nIdade: ", age,"\nCidade: ",city,"\nEstado: ", state)
